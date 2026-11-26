@@ -41,7 +41,9 @@ Proposed budget reductions should also be tested against different spending scen
 ## Executive Dashboard
 
 The dashboard summarizes annual financial performance, monthly expenditure trends, budget variances, executive findings and management recommendations.
+![Executive Dashboard](Executive_Dashboard.png)
 
+![Executive Findings and Management Recommendations](Executive_Dashboard1.png)
 ## Limitations
 
 The available data identifies where overspending occurred but does not establish its underlying operational causes.
